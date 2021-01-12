@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: ff533f91c6994664581d611a69548cf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 265593276426055700
+    second: Many rocks1_0
+  - first:
+      213: -4147674739284787457
+    second: Many rocks1_1
+  - first:
+      213: 7161645577984081086
+    second: Many rocks1_2
+  - first:
+      213: 942480302024303354
+    second: Many rocks1_3
+  - first:
+      213: -3263133155636966642
+    second: Many rocks1_4
+  - first:
+      213: 5693387833807421565
+    second: Many rocks1_5
+  - first:
+      213: -5643443334647554166
+    second: Many rocks1_6
+  - first:
+      213: 3153247585968332712
+    second: Many rocks1_7
+  - first:
+      213: -212323446399361105
+    second: Many rocks1_8
+  - first:
+      213: 9085065938923892055
+    second: Many rocks1_9
+  - first:
+      213: -1793341124464829863
+    second: Many rocks1_10
+  - first:
+      213: 984187240005500358
+    second: Many rocks1_11
+  - first:
+      213: -2597108706624984487
+    second: Many rocks1_12
+  - first:
+      213: -1043551572143730856
+    second: Many rocks1_13
+  - first:
+      213: 561118908577258988
+    second: Many rocks1_14
+  - first:
+      213: -5775073310903159269
+    second: Many rocks1_15
+  - first:
+      213: 6277782382209538592
+    second: Many rocks1_16
+  - first:
+      213: -8070672876159225665
+    second: Many rocks1_17
+  - first:
+      213: -6345605321479494491
+    second: Many rocks1_18
+  - first:
+      213: -129953551932488495
+    second: Many rocks1_19
+  - first:
+      213: 4401913454211355877
+    second: Many rocks1_20
+  - first:
+      213: -6809280806733041330
+    second: Many rocks1_21
+  - first:
+      213: 2324961642576039138
+    second: Many rocks1_22
+  - first:
+      213: 1395357754738923825
+    second: Many rocks1_23
+  - first:
+      213: -699951184552595112
+    second: Many rocks1_24
+  - first:
+      213: -4541510289218776076
+    second: Many rocks1_25
+  - first:
+      213: -6596150869337866116
+    second: Many rocks1_26
+  - first:
+      213: -7168317427454487533
+    second: Many rocks1_27
+  - first:
+      213: -8993040753598033868
+    second: Many rocks1_28
+  - first:
+      213: -6317094399472144028
+    second: Many rocks1_29
+  - first:
+      213: -731936079009192495
+    second: Many rocks1_30
+  - first:
+      213: -8405355844045253765
+    second: Many rocks1_31
+  - first:
+      213: 8010877630284028659
+    second: Many rocks1_32
+  - first:
+      213: -3177046721457781756
+    second: Many rocks1_33
+  - first:
+      213: -3441137777142948381
+    second: Many rocks1_34
+  - first:
+      213: 3504948500406212819
+    second: Many rocks1_35
+  - first:
+      213: -747141434040437064
+    second: Many rocks1_36
+  - first:
+      213: -4850182428940690270
+    second: Many rocks1_37
+  - first:
+      213: -2002922072309365013
+    second: Many rocks1_38
+  - first:
+      213: 5594453409746173857
+    second: Many rocks1_39
+  - first:
+      213: -6849857989239644240
+    second: Many rocks1_40
+  - first:
+      213: 3089624283896879688
+    second: Many rocks1_41
+  - first:
+      213: 8161304674736977994
+    second: Many rocks1_42
+  - first:
+      213: 4900335672610346125
+    second: Many rocks1_43
+  - first:
+      213: -8691561327430128394
+    second: Many rocks1_44
+  - first:
+      213: 4728809712033821740
+    second: Many rocks1_45
+  - first:
+      213: 1333521281960482943
+    second: Many rocks1_46
+  - first:
+      213: 5130095409025283721
+    second: Many rocks1_47
+  - first:
+      213: -417888839008539126
+    second: Many rocks1_48
+  - first:
+      213: -4304944566950408027
+    second: Many rocks1_49
+  - first:
+      213: 3935695061327526358
+    second: Many rocks1_50
+  - first:
+      213: 8664231595898004035
+    second: Many rocks1_51
+  - first:
+      213: -4349959973363680912
+    second: Many rocks1_52
+  - first:
+      213: -9184418750420473601
+    second: Many rocks1_53
+  - first:
+      213: 1261177948189391713
+    second: Many rocks1_54
+  - first:
+      213: 31404867444359989
+    second: Many rocks1_55
+  - first:
+      213: -9168171986824238469
+    second: Many rocks1_56
+  - first:
+      213: -3471259968182845490
+    second: Many rocks1_57
+  - first:
+      213: -4560946770972726933
+    second: Many rocks1_58
+  - first:
+      213: 664439251629371169
+    second: Many rocks1_59
+  - first:
+      213: 7115198344762507793
+    second: Many rocks1_60
+  - first:
+      213: -3632787233488327328
+    second: Many rocks1_61
+  - first:
+      213: -2989731516421328957
+    second: Many rocks1_62
+  - first:
+      213: -6800770786531496822
+    second: Many rocks1_63
+  - first:
+      213: 7273662618580119264
+    second: Many rocks1_64
+  - first:
+      213: 1713014003754710607
+    second: Many rocks1_65
+  - first:
+      213: -2271486710807266542
+    second: Many rocks1_66
+  - first:
+      213: -5480282579210940934
+    second: Many rocks1_67
+  - first:
+      213: 6476431686142752684
+    second: Many rocks1_68
+  - first:
+      213: -7935938467910301604
+    second: Many rocks1_69
+  - first:
+      213: -8137643918206001362
+    second: Many rocks1_70
+  - first:
+      213: 3695524720461218172
+    second: Many rocks1_71
+  - first:
+      213: -4743080904478278314
+    second: Many rocks1_72
+  - first:
+      213: -4994973292960388372
+    second: Many rocks1_73
+  - first:
+      213: -7966648994742570910
+    second: Many rocks1_74
+  - first:
+      213: 3704389789686658911
+    second: Many rocks1_75
+  - first:
+      213: 1191609094022152757
+    second: Many rocks1_76
+  - first:
+      213: -4855267702655819246
+    second: Many rocks1_77
+  - first:
+      213: 4222795187255645245
+    second: Many rocks1_78
+  - first:
+      213: 7736778868755085607
+    second: Many rocks1_79
+  - first:
+      213: 5736604562677468119
+    second: Many rocks1_80
+  - first:
+      213: -8293157556714735463
+    second: Many rocks1_81
+  - first:
+      213: 2707450409047765462
+    second: Many rocks1_82
+  - first:
+      213: -7524449162206079201
+    second: Many rocks1_83
+  - first:
+      213: 6199060217899587925
+    second: Many rocks1_84
+  - first:
+      213: -1346852474290986435
+    second: Many rocks1_85
+  - first:
+      213: -8093413334718100453
+    second: Many rocks1_86
+  - first:
+      213: 5174391363182200506
+    second: Many rocks1_87
+  - first:
+      213: -2190777730313102879
+    second: Many rocks1_88
+  - first:
+      213: 5274965175428011178
+    second: Many rocks1_89
+  - first:
+      213: -333979132149862819
+    second: Many rocks1_90
+  - first:
+      213: 919856164670023989
+    second: Many rocks1_91
+  - first:
+      213: -4936199955126495806
+    second: Many rocks1_92
+  - first:
+      213: 3041266218331688370
+    second: Many rocks1_93
+  - first:
+      213: 3894805092125308625
+    second: Many rocks1_94
+  - first:
+      213: 6896833534863378621
+    second: Many rocks1_95
+  - first:
+      213: 4867032600322624053
+    second: Many rocks1_96
+  - first:
+      213: 8415744330858371517
+    second: Many rocks1_97
+  - first:
+      213: 3638317002859109546
+    second: Many rocks1_98
+  - first:
+      213: 1982530504807847543
+    second: Many rocks1_99
+  - first:
+      213: 792859450682963551
+    second: Many rocks1_100
+  - first:
+      213: 5118103054824854072
+    second: Many rocks1_101
+  - first:
+      213: -2110125626351501969
+    second: Many rocks1_102
+  - first:
+      213: -3146464188676726667
+    second: Many rocks1_103
+  - first:
+      213: 2298502655276287002
+    second: Many rocks1_104
+  - first:
+      213: 3508717915484542124
+    second: Many rocks1_105
+  - first:
+      213: -9013246906223912750
+    second: Many rocks1_106
+  - first:
+      213: -7948358597646359797
+    second: Many rocks1_107
+  - first:
+      213: 691314337945776504
+    second: Many rocks1_108
+  - first:
+      213: 1465594597940045217
+    second: Many rocks1_109
+  - first:
+      213: -4216168230402919460
+    second: Many rocks1_110
+  - first:
+      213: -2581314995708637675
+    second: Many rocks1_111
+  - first:
+      213: 4050858270812190600
+    second: Many rocks1_112
+  - first:
+      213: -1793429234938751596
+    second: Many rocks1_113
+  - first:
+      213: -7681826955181119431
+    second: Many rocks1_114
+  - first:
+      213: -5012013249344454007
+    second: Many rocks1_115
+  - first:
+      213: -536265070877409353
+    second: Many rocks1_116
+  - first:
+      213: 1863664335925096751
+    second: Many rocks1_117
+  - first:
+      213: -6364901788970271164
+    second: Many rocks1_118
+  - first:
+      213: 227301021745705388
+    second: Many rocks1_119
+  - first:
+      213: -3844215572397740158
+    second: Many rocks1_120
+  - first:
+      213: -7091026480297638877
+    second: Many rocks1_121
+  - first:
+      213: -2260336950177406497
+    second: Many rocks1_122
+  - first:
+      213: 8795746348301317753
+    second: Many rocks1_123
+  - first:
+      213: 5266424640788816752
+    second: Many rocks1_124
+  - first:
+      213: -7110799758627673583
+    second: Many rocks1_125
+  - first:
+      213: -1121001820491025444
+    second: Many rocks1_126
+  - first:
+      213: -6689751760182213921
+    second: Many rocks1_127
+  - first:
+      213: -8508084829128357503
+    second: Many rocks1_128
+  - first:
+      213: -4699940328376308332
+    second: Many rocks1_129
+  - first:
+      213: -1466964807066678798
+    second: Many rocks1_130
+  - first:
+      213: 7774875585113254036
+    second: Many rocks1_131
+  - first:
+      213: -2536287811313016924
+    second: Many rocks1_132
+  - first:
+      213: -6227314550797659897
+    second: Many rocks1_133
+  - first:
+      213: -8483907515517868126
+    second: Many rocks1_134
+  - first:
+      213: 7311199455122337787
+    second: Many rocks1_135
+  - first:
+      213: -5069751509637187918
+    second: Many rocks1_136
+  - first:
+      213: 9204309670413664676
+    second: Many rocks1_137
+  - first:
+      213: 22479572930014349
+    second: Many rocks1_138
+  - first:
+      213: 5449264519716737292
+    second: Many rocks1_139
+  - first:
+      213: 1735472851852303920
+    second: Many rocks1_140
+  - first:
+      213: 804097653152999839
+    second: Many rocks1_141
+  - first:
+      213: 4406422199697771505
+    second: Many rocks1_142
+  - first:
+      213: 7201080687753565201
+    second: Many rocks1_143
+  - first:
+      213: -6918342356310717235
+    second: Many rocks1_144
+  - first:
+      213: -8777912633257592383
+    second: Many rocks1_145
+  - first:
+      213: 8048470819618823349
+    second: Many rocks1_146
+  - first:
+      213: 52609383193842587
+    second: Many rocks1_147
+  - first:
+      213: -381247403379261132
+    second: Many rocks1_148
+  - first:
+      213: -8899986885625526375
+    second: Many rocks1_149
+  - first:
+      213: -7019768296362872642
+    second: Many rocks1_150
+  - first:
+      213: -8469849569557389415
+    second: Many rocks1_151
+  - first:
+      213: -8759708859177047800
+    second: Many rocks1_152
+  - first:
+      213: 7123091754766838522
+    second: Many rocks1_153
+  - first:
+      213: 3057183356787120990
+    second: Many rocks1_154
+  - first:
+      213: -8217224492460938873
+    second: Many rocks1_155
+  - first:
+      213: 7028596458758884371
+    second: Many rocks1_156
+  - first:
+      213: 6066571577224466683
+    second: Many rocks1_157
+  - first:
+      213: -3677412794404133025
+    second: Many rocks1_158
+  - first:
+      213: -1704194748684893337
+    second: Many rocks1_159
+  - first:
+      213: -1868395993503130937
+    second: Many rocks1_160
+  - first:
+      213: 7607282096141675476
+    second: Many rocks1_161
+  - first:
+      213: 2963130417352886556
+    second: Many rocks1_162
+  - first:
+      213: -7874025144246055782
+    second: Many rocks1_163
+  - first:
+      213: 650437611835892797
+    second: Many rocks1_164
+  - first:
+      213: 5267451999073533063
+    second: Many rocks1_165
+  - first:
+      213: -3842811153918920249
+    second: Many rocks1_166
+  - first:
+      213: 8137770188034567979
+    second: Many rocks1_167
+  - first:
+      213: 918745556849253639
+    second: Many rocks1_168
+  - first:
+      213: 4519231342388782672
+    second: Many rocks1_169
+  - first:
+      213: -6000421691333771645
+    second: Many rocks1_170
+  - first:
+      213: -6011902268765134191
+    second: Many rocks1_171
+  - first:
+      213: -6818274194484876023
+    second: Many rocks1_172
+  - first:
+      213: 5291595267840030142
+    second: Many rocks1_173
+  - first:
+      213: -6789415596046170781
+    second: Many rocks1_174
+  - first:
+      213: 6463899984222614569
+    second: Many rocks1_175
+  - first:
+      213: 5004493641104199289
+    second: Many rocks1_176
+  - first:
+      213: 3117069025853342782
+    second: Many rocks1_177
+  - first:
+      213: -4632273462383710219
+    second: Many rocks1_178
+  - first:
+      213: -4779094190453029927
+    second: Many rocks1_179
+  - first:
+      213: 4439309095394205149
+    second: Many rocks1_180
+  - first:
+      213: 8515848474412466141
+    second: Many rocks1_181
+  - first:
+      213: -7847047997986586563
+    second: Many rocks1_182
+  - first:
+      213: -6995149109714161316
+    second: Many rocks1_183
+  - first:
+      213: 6792294541932908302
+    second: Many rocks1_184
+  - first:
+      213: -8136226399913136063
+    second: Many rocks1_185
+  - first:
+      213: -6826422901240766545
+    second: Many rocks1_186
+  - first:
+      213: 706967929582398223
+    second: Many rocks1_187
+  - first:
+      213: -6305354082107638633
+    second: Many rocks1_188
+  - first:
+      213: 3447193316990910334
+    second: Many rocks1_189
+  - first:
+      213: -6977034466016529887
+    second: Many rocks1_190
+  - first:
+      213: -8962752134770018097
+    second: Many rocks1_191
+  - first:
+      213: 4185277398036431372
+    second: Many rocks1_192
+  - first:
+      213: 3570050853790996493
+    second: Many rocks1_193
+  - first:
+      213: -3072790454962943594
+    second: Many rocks1_194
+  - first:
+      213: -6881899708046316437
+    second: Many rocks1_195
+  - first:
+      213: -512285822024670574
+    second: Many rocks1_196
+  - first:
+      213: -3928143823766799069
+    second: Many rocks1_197
+  - first:
+      213: -6773590584803009833
+    second: Many rocks1_198
+  - first:
+      213: 546609030895833067
+    second: Many rocks1_199
+  - first:
+      213: -8822891968297138230
+    second: Many rocks1_200
+  - first:
+      213: 5779069402591815815
+    second: Many rocks1_201
+  - first:
+      213: -2094827593445083975
+    second: Many rocks1_202
+  - first:
+      213: 9015765434372092940
+    second: Many rocks1_203
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Many rocks1_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 462
+        width: 165
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4107b108da39fa300800000000000000
+      internalID: 265593276426055700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 525
+        width: 204
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb119cccf7076c0800000000000000
+      internalID: -4147674739284787457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 633
+        width: 162
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfcfa85b6436360800000000000000
+      internalID: 7161645577984081086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 561
+        width: 264
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af226f957dc541d00800000000000000
+      internalID: 942480302024303354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_4
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 609
+        width: 153
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b857b0fa507b2d0800000000000000
+      internalID: -3263133155636966642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 567
+        width: 150
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704f9ae11af20f40800000000000000
+      internalID: 5693387833807421565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 483
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f5948ff267ea1b0800000000000000
+      internalID: -5643443334647554166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 474
+        width: 105
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af108a09f592cb20800000000000000
+      internalID: 3153247585968332712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 483
+        width: 117
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf11ef43fcad0df0800000000000000
+      internalID: -212323446399361105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 261
+        width: 93
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d2f823653a41e70800000000000000
+      internalID: 9085065938923892055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_10
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 291
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9c23bfb5cc17e0800000000000000
+      internalID: -1793341124464829863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 447
+        width: 21
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdfff0941988ad00800000000000000
+      internalID: 984187240005500358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 333
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2b82346735fbd0800000000000000
+      internalID: -2597108706624984487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 438
+        width: 39
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8295cf5f8481f0800000000000000
+      internalID: -1043551572143730856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 303
+        width: 147
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9086acae79c700800000000000000
+      internalID: 561118908577258988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 351
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1637cfdb61dadfa0800000000000000
+      internalID: -5775073310903159269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_16
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 348
+        width: 72
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1ec4c0d92f1750800000000000000
+      internalID: 6277782382209538592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 96
+        width: 243
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0362687c53fff80800000000000000
+      internalID: -8070672876159225665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 294
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4e260a491efe7a0800000000000000
+      internalID: -6345605321479494491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 120
+        width: 264
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d483cbdeef423ef0800000000000000
+      internalID: -129953551932488495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_20
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 177
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4d74ad6fcb61d30800000000000000
+      internalID: 4401913454211355877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 201
+        width: 93
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41bac2fe239081a0800000000000000
+      internalID: -6809280806733041330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_22
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 16
+        width: 93
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec4726bb4ce34020800000000000000
+      internalID: 2324961642576039138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_23
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 111
+        width: 105
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139dcc92c7e4d5310800000000000000
+      internalID: 1395357754738923825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 26
+        width: 126
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f0ac2b164946f0800000000000000
+      internalID: -699951184552595112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_25
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 87
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35553347059f0c0800000000000000
+      internalID: -4541510289218776076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 36
+        width: 66
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c708b347bb3c574a0800000000000000
+      internalID: -6596150869337866116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 24
+        width: 30
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31455537745058c90800000000000000
+      internalID: -7168317427454487533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309d2fe41d423380800000000000000
+      internalID: -8993040753598033868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 15
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617ad2fc1c2558a0800000000000000
+      internalID: -6317094399472144028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 18
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56d5c9304a7d5f0800000000000000
+      internalID: -731936079009192495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Many rocks1_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 18
+        width: 30
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73dde0b46d2a5b80800000000000000
+      internalID: -8405355844045253765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
